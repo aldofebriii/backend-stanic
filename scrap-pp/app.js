@@ -96,4 +96,5 @@ const scrapPengadilanPajak = async (banyakHalaman) => {
     }
 };
 
+//Eksekusi
 scrapPengadilanPajak(3);
